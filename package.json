@@ -1,0 +1,13 @@
+{
+  "name": "github-activity",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "bin": {
+    "github-activity": "./index.js"
+  },
+  "keywords": [],
+  "author": "Santiago Gatius Villodres",
+  "license": "ISC",
+  "description": ""
+}
